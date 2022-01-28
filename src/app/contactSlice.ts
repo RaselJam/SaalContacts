@@ -7,6 +7,7 @@ type initialStateType = {
   contactList: Contact[];
 };
 
+//using as db mock
 const contactList: Contact[] = [
   {
     id: uuidv4(),
