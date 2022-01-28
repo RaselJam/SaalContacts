@@ -1,6 +1,6 @@
 import { createSlice, PayloadAction } from "@reduxjs/toolkit";
 import { RootState } from "../app/store";
-import Contact from "../model/Contact";
+
 import Product from "../model/Product";
 import { v4 as uuidv4 } from "uuid";
 
