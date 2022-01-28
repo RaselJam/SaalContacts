@@ -2,7 +2,6 @@ import * as React from "react";
 import {
   BsFillPenFill,
   BsFillTrashFill,
-  BsFillCalendar3WeekFill,
   BsMailbox2,
   BsTelephoneFill,
   BsFilePerson,
