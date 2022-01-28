@@ -1,3 +1,5 @@
+
+//This is WIP I couldnt to finish this part becouse of lake of time(still working on it ...)
 class Product {
   id: string;
   name: string;
